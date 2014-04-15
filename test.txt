@@ -1,5 +1,0 @@
-<div>
-This is test text!
-<span>测试</span>
-修改成中文
-</div>
