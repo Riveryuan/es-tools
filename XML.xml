@@ -10,6 +10,7 @@
 <book>
 <title>Apache 2</title>
 <author>Peter Wainwright 得到可靠</author>
+<author id="abc">Peter Wainwright</author>
 <publisher>Wrox</publisher>
 <category>1</category>
 </book>
