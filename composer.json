@@ -3,7 +3,8 @@
     "description": "Collection of PHP code snippets",
     "type": "library",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "ext-curl": "*"
     },
     "require-dev": {
         "php": "^7.0"
