@@ -12,6 +12,7 @@ namespace EsTools;
 
 /**
  * Class Es
+ * 
  * @package ES
  */
 class Es
@@ -19,6 +20,7 @@ class Es
 
     /**
      * ES encode
+     * 
      * @param $string
      * @return string
      */
@@ -31,6 +33,7 @@ class Es
 
     /**
      * ES decode
+     * 
      * @param $string
      * @return bool|string
      */
