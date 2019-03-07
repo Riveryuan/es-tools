@@ -5,7 +5,6 @@
  * @license Please see LICENSE
  */
 
-namespace EsTools\config;
 
 /**
  * Define "User Agents"
