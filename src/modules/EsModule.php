@@ -42,6 +42,9 @@ abstract class EsModule
 
         }, $enable_config_files);
 
+        if (isset($this->config['timezone'])){
+            ini_set('date.timezone', $this->config['timezone']);
+        }
     }
 
     /**

@@ -6,6 +6,8 @@
  */
 
 
-return [];
+return [
+    'timezone'=>'Asia/Shanghai'
+];
  
  
